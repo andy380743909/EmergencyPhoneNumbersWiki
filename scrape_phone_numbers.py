@@ -25,7 +25,7 @@ def get_all_phonenumbers(element):
         text = get_text(phone)
         # Angola ambulance is "112/116", need split it
         split = text.split('/')
-        result.append(split)
+        result += split
     return result
 
 def get_text_withouttag(element, tag):

@@ -2,751 +2,507 @@
     {
         "country_name": "Algeria",
         "police": [
-            [
-                "1548"
-            ]
+            "1548"
         ],
         "ambulance": [
-            [
-                "14"
-            ]
+            "14"
         ],
         "fire": [
-            [
-                "14"
-            ]
+            "14"
         ],
         "notes": "Gendarme -1055"
     },
     {
         "country_name": "Angola",
         "police": [
-            [
-                "113"
-            ]
+            "113"
         ],
         "ambulance": [
-            [
-                "112",
-                "116"
-            ]
+            "112",
+            "116"
         ],
         "fire": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "notes": ""
     },
     {
         "country_name": "Ascension Island",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Benin",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": ""
     },
     {
         "country_name": "Burundi",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": ""
     },
     {
         "country_name": "Botswana",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "997"
-            ]
+            "997"
         ],
         "fire": [
-            [
-                "998"
-            ]
+            "998"
         ],
         "notes": "Mobile phones -112."
     },
     {
         "country_name": "Burkina Faso",
         "police": [
-            [
-                "17"
-            ]
+            "17"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "notes": ""
     },
     {
         "country_name": "Cameroon",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -117; Ambulance -119; Fire -118; Electricity emergency -8010."
     },
     {
         "country_name": "Cape Verde",
         "police": [
-            [
-                "132"
-            ]
+            "132"
         ],
         "ambulance": [
-            [
-                "130"
-            ]
+            "130"
         ],
         "fire": [
-            [
-                "131"
-            ]
+            "131"
         ],
         "notes": ""
     },
     {
         "country_name": "Central African Republic",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "1220"
-            ]
+            "1220"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": ""
     },
     {
         "country_name": "Chad",
         "police": [
-            [
-                "17"
-            ]
+            "17"
         ],
         "ambulance": [
-            [
-                "2251-4242"
-            ]
+            "2251-4242"
         ],
         "fire": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "notes": "Ambulance -2251-1237."
     },
     {
         "country_name": "Comoros",
         "police": [
-            [
-                "17"
-            ]
+            "17"
         ],
         "ambulance": [
-            [
-                "772-03-73"
-            ]
+            "772-03-73"
         ],
         "fire": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "notes": "Ambulance -773-26-04."
     },
     {
         "country_name": "Republic of Congo",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": ""
     },
     {
         "country_name": "Democratic Republic of Congo",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": ""
     },
     {
         "country_name": "Djibouti",
         "police": [
-            [
-                "17"
-            ]
+            "17"
         ],
         "ambulance": [
-            [
-                "19"
-            ]
+            "19"
         ],
         "fire": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "notes": ""
     },
     {
         "country_name": "Egypt",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "122"
-            ]
+            "112",
+            "122"
         ],
         "ambulance": [
-            [
-                "123"
-            ]
+            "123"
         ],
         "fire": [
-            [
-                "180"
-            ]
+            "180"
         ],
         "notes": "Tourist police -126; Traffic police -128; Electricity emergency -121; Gas emergency -129; Mobile phones -112."
     },
     {
         "country_name": "Equatorial Guinea",
         "police": [
-            [
-                "114"
-            ]
+            "114"
         ],
         "ambulance": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Traffic police -116."
     },
     {
         "country_name": "Eritrea",
         "police": [
-            [
-                "113"
-            ]
+            "113"
         ],
         "ambulance": [
-            [
-                "114"
-            ]
+            "114"
         ],
         "fire": [
-            [
-                "116"
-            ]
+            "116"
         ],
         "notes": ""
     },
     {
         "country_name": "Eswatini",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "977"
-            ]
+            "977"
         ],
         "fire": [
-            [
-                "933"
-            ]
+            "933"
         ],
         "notes": ""
     },
     {
         "country_name": "Ethiopia",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -991;Ambulance -907;Fire -939;Traffic police -945."
     },
     {
         "country_name": "Gabon",
         "police": [
-            [
-                "1730"
-            ]
+            "1730"
         ],
         "ambulance": [
-            [
-                "1300"
-            ]
+            "1300"
         ],
         "fire": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "notes": ""
     },
     {
         "country_name": "Gambia",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "116"
-            ]
+            "116"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": "Police -112; Electricity emergency -124; Water emergency -125."
     },
     {
         "country_name": "Ghana",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -191; Ambulance -193; Fire -192."
     },
     {
         "country_name": "Guinea",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "fire": [
-            [
-                "442-020"
-            ]
+            "442-020"
         ],
         "notes": "Maritime Emergency Service - 19; Gendarmerie - 118; National Gendarmerie - 122"
     },
     {
         "country_name": "Guinea-Bissau",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -117; Ambulance -119; Fire -118."
     },
     {
         "country_name": "Ivory Coast",
         "police": [
-            [
-                "110"
-            ],
-            [
-                "111"
-            ],
-            [
-                "170"
-            ]
+            "110",
+            "111",
+            "170"
         ],
         "ambulance": [
-            [
-                "185"
-            ]
+            "185"
         ],
         "fire": [
-            [
-                "180"
-            ]
+            "180"
         ],
         "notes": ""
     },
     {
         "country_name": "Liberia",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Kenya",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "999",
+            "911"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "999",
+            "911"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "999",
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Libya",
         "police": [
-            [
-                "1515"
-            ]
+            "1515"
         ],
         "ambulance": [
-            [
-                "1515"
-            ]
+            "1515"
         ],
         "fire": [
-            [
-                "1515"
-            ]
+            "1515"
         ],
         "notes": "Ambulance -193."
     },
     {
         "country_name": "Lesotho",
         "police": [
-            [
-                "123"
-            ]
+            "123"
         ],
         "ambulance": [
-            [
-                "121"
-            ]
+            "121"
         ],
         "fire": [
-            [
-                "122"
-            ]
+            "122"
         ],
         "notes": ""
     },
     {
         "country_name": "Madagascar",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "124"
-            ]
+            "124"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": "Traffic police -3600."
     },
     {
         "country_name": "Malawi",
         "police": [
-            [
-                "997"
-            ]
+            "997"
         ],
         "ambulance": [
-            [
-                "998"
-            ]
+            "998"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Police -990."
     },
     {
         "country_name": "Mali",
         "police": [
-            [
-                "17"
-            ]
+            "17"
         ],
         "ambulance": [
-            [
-                "15"
-            ]
+            "15"
         ],
         "fire": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "notes": "Ambulance -112, Fire -112."
     },
     {
         "country_name": "Mauritius",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "114"
-            ]
+            "114"
         ],
         "fire": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "notes": "Police -999; Fire -995."
     },
     {
         "country_name": "Mauritania",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "101"
-            ]
+            "101"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": "Gendarmerie -116; Traffic police -119."
     },
     {
         "country_name": "Mayotte",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "Morocco",
         "police": [
-            [
-                "19"
-            ]
+            "19"
         ],
         "ambulance": [
-            [
-                "15"
-            ]
+            "15"
         ],
         "fire": [
-            [
-                "15"
-            ]
+            "15"
         ],
         "notes": "Royal gendarmerie -177; Drugs & alcohol service -113; Racial discrimination hotline -114; Non-emergency disturbances -110; General information -160; National Freeway call center -5050; Mobile phones -112."
     },
     {
         "country_name": "Mozambique",
         "police": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "ambulance": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "fire": [
-            [
-                "198"
-            ]
+            "198"
         ],
         "notes": ""
     },
     {
         "country_name": "Namibia",
         "police": [
-            [
-                "10 111"
-            ]
+            "10 111"
         ],
         "ambulance": [],
         "fire": [],
@@ -755,4042 +511,2674 @@
     {
         "country_name": "Nigeria",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Niger",
         "police": [
-            [
-                "17"
-            ]
+            "17"
         ],
         "ambulance": [
-            [
-                "15"
-            ]
+            "15"
         ],
         "fire": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "notes": ""
     },
     {
         "country_name": "Réunion",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "Rwanda",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "912"
-            ]
+            "912"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Traffic police -113."
     },
     {
         "country_name": "Saint Helena",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Sao Tome and Principe",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Senegal",
         "police": [
-            [
-                "17"
-            ]
+            "17"
         ],
         "ambulance": [
-            [
-                "18"
-            ]
+            "18"
         ],
         "fire": [
-            [
-                "1515"
-            ]
+            "1515"
         ],
         "notes": ""
     },
     {
         "country_name": "Seychelles",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "notes": "Police -133; Ambulance -151."
     },
     {
         "country_name": "Sierra Leone",
         "police": [
-            [
-                "019"
-            ]
+            "019"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Somalia",
         "police": [
-            [
-                "888"
-            ]
+            "888"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "555"
-            ]
+            "555"
         ],
         "notes": "Traffic police -777."
     },
     {
         "country_name": "South Africa",
         "police": [
-            [
-                "10 111"
-            ]
+            "10 111"
         ],
         "ambulance": [
-            [
-                "10 177"
-            ]
+            "10 177"
         ],
         "fire": [
-            [
-                "10 177"
-            ]
+            "10 177"
         ],
         "notes": "Emergency in Cape Town -107; Mobile phones -112."
     },
     {
         "country_name": "Sudan",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Traffic police -777 777."
     },
     {
         "country_name": "South Sudan",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Tanzania",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "114"
-            ]
+            "114"
         ],
         "fire": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "notes": "Police -999."
     },
     {
         "country_name": "Togo",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "8200"
-            ]
+            "8200"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": ""
     },
     {
         "country_name": "Tristan da Cunha",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Tunisia",
         "police": [
-            [
-                "197"
-            ]
+            "197"
         ],
         "ambulance": [
-            [
-                "190"
-            ]
+            "190"
         ],
         "fire": [
-            [
-                "198"
-            ]
+            "198"
         ],
         "notes": "National guard -193."
     },
     {
         "country_name": "Uganda",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -999; Fire -999."
     },
     {
         "country_name": "Western Sahara",
         "police": [
-            [
-                "150"
-            ]
+            "150"
         ],
         "ambulance": [
-            [
-                "150"
-            ]
+            "150"
         ],
         "fire": [
-            [
-                "150"
-            ]
+            "150"
         ],
         "notes": ""
     },
     {
         "country_name": "Zambia",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Police -911; Ambulance -992; Fire -993; Mobile phones -112."
     },
     {
         "country_name": "Zimbabwe",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Police -995; Ambulance -994; Fire -993; Mobile phones -112."
     },
     {
         "country_name": "Antarctica",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Afghanistan",
         "police": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "notes": ""
     },
     {
         "country_name": "Bahrain",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Mobile phones -112, Traffic police -199, Coast Guard -994."
     },
     {
         "country_name": "Bangladesh",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Anti Corruption Commission -106, Agricultural Information Services -16123, Health Services16263, Dhaka WASA16162, Women and Children Ministry109, Legal Services16430, National Information Service -333, IEDCR Helpline (for CoVid-19) -10655"
     },
     {
         "country_name": "Bhutan",
         "police": [
-            [
-                "113"
-            ]
+            "113"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "notes": ""
     },
     {
         "country_name": "British Indian Ocean Territory",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Brunei",
         "police": [
-            [
-                "993"
-            ]
+            "993"
         ],
         "ambulance": [
-            [
-                "991"
-            ]
+            "991"
         ],
         "fire": [
-            [
-                "995"
-            ]
+            "995"
         ],
         "notes": "Search and Rescue -998"
     },
     {
         "country_name": "Myanmar",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Police -199; Ambulance -192; Fire -191(can also call for Natural disasters)Highway police - 1880;Relief - 067-340-4222 (Ministry hotline);International hotline - 122;Covid-19 hotline - 2019."
     },
     {
         "country_name": "Cambodia",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": "Child helpline -1280."
     },
     {
         "country_name": "People's Republic of China",
         "police": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "ambulance": [
-            [
-                "120"
-            ]
+            "120"
         ],
         "fire": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "notes": ""
     },
     {
         "country_name": "Christmas Island",
         "police": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "ambulance": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "fire": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "notes": ""
     },
     {
         "country_name": "Cocos Islands",
         "police": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "ambulance": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "fire": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "notes": ""
     },
     {
         "country_name": "East Timor",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Hong Kong",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Mobile phones -911or112(Automatically redirects to999)."
     },
     {
         "country_name": "India",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ".mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}Gas leakage - 1906\nTourist Helpline - 1363\nChild Helpline - 1098\nDisaster management - 104\nWomen Helpline - 181\nPolice - 100\nAmbulance - 108\nFire brigade - 101\n[25]"
     },
     {
         "country_name": "Indonesia",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -110;Ambulance -118or119; Fire -113or1131; Search & rescue -115; Natural disasters -129; Electricity emergency -123;Mental health -1-500-454."
     },
     {
         "country_name": "Iran",
         "police": [
-            [
-                ""
-            ]
+            ""
         ],
         "ambulance": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "fire": [
-            [
-                "125"
-            ]
+            "125"
         ],
         "notes": "General emergencies is also110. Social Emergency -123; Roads Traffic Information Center -141; Iranian Red Crescent -112(non-mobile phones).112 and 911 redirect to 110 on mobile phones."
     },
     {
         "country_name": "Iraq",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "911"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "911"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "911"
         ],
         "notes": "Police -104; Ambulance -122; Fire -115."
     },
     {
         "country_name": "Israel",
         "police": [
-            [
-                "100"
-            ]
+            "100"
         ],
         "ambulance": [
-            [
-                "101"
-            ]
+            "101"
         ],
         "fire": [
-            [
-                "102"
-            ]
+            "102"
         ],
         "notes": "Israel Electric Corporation-103;Home Front Command-104; Online child abuse hotline -105; Non-emergency municipal hazards -106; Non-emergency police inquiries -110; Mobile phones -112."
     },
     {
         "country_name": "Japan",
         "police": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "ambulance": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "fire": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "notes": "Coast guard-118;Information about emergencies -#7119free call; Information about emergencies -#9110pay call;Roadside assistance-#8139.112and911redirect to110on mobile phones and telephones that are present at allUnited States military installations."
     },
     {
         "country_name": "Jordan",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Mobile phones -112."
     },
     {
         "country_name": "Kazakhstan",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -102; Ambulance -103; Fire -101; Gas leaks -104."
     },
     {
         "country_name": "Kyrgyzstan",
         "police": [
-            [
-                "102"
-            ]
+            "102"
         ],
         "ambulance": [
-            [
-                "103"
-            ]
+            "103"
         ],
         "fire": [
-            [
-                "101"
-            ]
+            "101"
         ],
         "notes": ""
     },
     {
         "country_name": "",
         "police": [
-            [
-                "local numbers only"
-            ]
+            "local numbers only"
         ],
         "ambulance": [
-            [
-                "local numbers only"
-            ]
+            "local numbers only"
         ],
         "fire": [
-            [
-                "8119"
-            ]
+            "8119"
         ],
         "notes": ""
     },
     {
         "country_name": "",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "fire": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "notes": "Non Emergency -110;National security -111; Reporting spies -113; Narcotics Report -127; Lost and Found Center -182; Travel Hotline -1330."
     },
     {
         "country_name": "Kuwait",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Laos",
         "police": [
-            [
-                "191"
-            ]
+            "191"
         ],
         "ambulance": [
-            [
-                "195"
-            ]
+            "195"
         ],
         "fire": [
-            [
-                "190"
-            ]
+            "190"
         ],
         "notes": ""
     },
     {
         "country_name": "Lebanon",
         "police": [
-            [
-                "999"
-            ],
-            [
-                "112"
-            ]
+            "999",
+            "112"
         ],
         "ambulance": [
-            [
-                "140"
-            ]
+            "140"
         ],
         "fire": [
-            [
-                "175"
-            ]
+            "175"
         ],
         "notes": "Police -160; Civil defense -125."
     },
     {
         "country_name": "Macau",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "From mobile phones -110or112(all redirects to999)"
     },
     {
         "country_name": "Maldives",
         "police": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "ambulance": [
-            [
-                "102"
-            ]
+            "102"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": "Traffic police -191."
     },
     {
         "country_name": "Malaysia",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "994"
-            ]
+            "994"
         ],
         "notes": "Nationwide centre - 1300221188"
     },
     {
         "country_name": "Mongolia",
         "police": [
-            [
-                "105"
-            ]
+            "105"
         ],
         "ambulance": [
-            [
-                "105"
-            ]
+            "105"
         ],
         "fire": [
-            [
-                "105"
-            ]
+            "105"
         ],
         "notes": "Police -102; Ambulance -103; Fire -101."
     },
     {
         "country_name": "Nepal",
         "police": [
-            [
-                "100"
-            ]
+            "100"
         ],
         "ambulance": [
-            [
-                "102"
-            ]
+            "102"
         ],
         "fire": [
-            [
-                "101"
-            ]
+            "101"
         ],
         "notes": "Traffic police -103; From mobile phones -112."
     },
     {
         "country_name": "Oman",
         "police": [
-            [
-                "9999"
-            ]
+            "9999"
         ],
         "ambulance": [
-            [
-                "9999"
-            ]
+            "9999"
         ],
         "fire": [
-            [
-                "9999"
-            ]
+            "9999"
         ],
         "notes": "From mobile phones -112."
     },
     {
         "country_name": "Pakistan",
         "police": [
-            [
-                "15"
-            ]
+            "15"
         ],
         "ambulance": [
-            [
-                "115"
-            ],
-            [
-                "1122"
-            ]
+            "115",
+            "1122"
         ],
         "fire": [
-            [
-                "16"
-            ]
+            "16"
         ],
         "notes": "Ambulance -1122;Traffic police -1915; Mobile phones -112;PunjabWomen's toll free helpline -1043;Tourist police -1422;National Highways & Motorway Police -130;Child Protection & Welfare Bureau -1121."
     },
     {
         "country_name": "Philippines",
         "police": [
-            [
-                ""
-            ]
+            ""
         ],
         "ambulance": [
-            [
-                ""
-            ]
+            ""
         ],
         "fire": [
-            [
-                ""
-            ]
+            ""
         ],
         "notes": "Child abuse (Bantay Bata) -163; Human trafficking -1343;From mobile phones - 112"
     },
     {
         "country_name": "Qatar",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Mobile phones -112."
     },
     {
         "country_name": "Saudi Arabia",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -999; Ambulance -997; Fire -998; Traffic police -993."
     },
     {
         "country_name": "Singapore",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "995"
-            ]
+            "995"
         ],
         "fire": [
-            [
-                "995"
-            ]
+            "995"
         ],
         "notes": "Mobile phones -112or911; Non-emergency ambulance -1777; Police hotline -1800 255 0000; Traffic police -6547 0000."
     },
     {
         "country_name": "Sri Lanka",
         "police": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "ambulance": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "fire": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "notes": "Traffic police -112 691 111."
     },
     {
         "country_name": "Syria",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "fire": [
-            [
-                "113"
-            ]
+            "113"
         ],
         "notes": ""
     },
     {
         "country_name": "Republic of China",
         "police": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "ambulance": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "fire": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "notes": "112on mobile phones - after call is connected0redirects110and9redirects119;Domestic violence -113."
     },
     {
         "country_name": "Tajikistan",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -102; Ambulance -103; Fire -101; Gas leaks -104."
     },
     {
         "country_name": "Thailand",
         "police": [
-            [
-                "191"
-            ],
-            [
-                "911"
-            ]
+            "191",
+            "911"
         ],
         "ambulance": [
-            [
-                "1669"
-            ]
+            "1669"
         ],
         "fire": [
-            [
-                "199"
-            ]
+            "199"
         ],
         "notes": "911can also be used as universal emergency number;Ambulance (Bangkok only) -1646; Tourist police -1155; Traffic control center (Bangkok Metro only) -1197; Highway patrol -1193; Mobile Phones -112."
     },
     {
         "country_name": "Turkmenistan",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -102; Ambulance -103; Fire -101; Gas leaks -104."
     },
     {
         "country_name": "United Arab Emirates",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Police -911; Ambulance - 998; Fire - 997; Coast guard -996; Non-emergency police -901; Water failure -922;Electricity failure- 991"
     },
     {
         "country_name": "Uzbekistan",
         "police": [
-            [
-                "102"
-            ]
+            "102"
         ],
         "ambulance": [
-            [
-                "101"
-            ]
+            "101"
         ],
         "fire": [
-            [
-                "103"
-            ]
+            "103"
         ],
         "notes": "Emergency service -1050; Gas leaks-104; Housing and communal services -1055."
     },
     {
         "country_name": "Vietnam",
         "police": [
-            [
-                "113"
-            ]
+            "113"
         ],
         "ambulance": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "fire": [
-            [
-                "114"
-            ]
+            "114"
         ],
         "notes": "111- Child abuse"
     },
     {
         "country_name": "Yemen",
         "police": [
-            [
-                "194"
-            ]
+            "194"
         ],
         "ambulance": [
-            [
-                "191"
-            ]
+            "191"
         ],
         "fire": [
-            [
-                "191"
-            ]
+            "191"
         ],
         "notes": ""
     },
     {
         "country_name": "Akrotiri and Dhekelia",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Åland Islands",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Non-emergency police -018 527 100; Poison control -09 471 977."
     },
     {
         "country_name": "Albania",
         "police": [
-            [
-                "129"
-            ]
+            "129"
         ],
         "ambulance": [
-            [
-                "127"
-            ]
+            "127"
         ],
         "fire": [
-            [
-                "128"
-            ]
+            "128"
         ],
         "notes": "Traffic police -126; Emergency at sea -125."
     },
     {
         "country_name": "Andorra",
         "police": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "ambulance": [
-            [
-                "116"
-            ]
+            "116"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": "112 -Mountain / Sky Rescue collaboration with Spanish (Catalan) and French authorities"
     },
     {
         "country_name": "Armenia",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "911"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "911"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "911"
-            ]
+            "112",
+            "911"
         ],
         "notes": "Police -102; Ambulance -103; Fire -101; Gas emergency -104; Traffic police -177; Search & rescue -108."
     },
     {
         "country_name": "Austria",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "133"
-            ]
+            "112",
+            "133"
         ],
         "ambulance": [
-            [
-                "144"
-            ]
+            "144"
         ],
         "fire": [
-            [
-                "122"
-            ]
+            "122"
         ],
         "notes": "Gas emergency -128; Mountain rescue -140; Doctors -141; Crisis-hotline -142; Support for children and teens -147; Non-emergency police -059 133; Deaf fax/SMS -0800 133 133; Poisoning Informations Center -01 406 43 43. The emergency telephone number112will be answered by the police, but will also handle other emergency services."
     },
     {
         "country_name": "Azerbaijan",
         "police": [
-            [
-                "102"
-            ]
+            "102"
         ],
         "ambulance": [
-            [
-                "103"
-            ]
+            "103"
         ],
         "fire": [
-            [
-                "101"
-            ]
+            "101"
         ],
         "notes": "Gas Service -104; Traffic police -902; Electricity emergency -199; Emergency -112."
     },
     {
         "country_name": "Belarus",
         "police": [
-            [
-                "102"
-            ]
+            "102"
         ],
         "ambulance": [
-            [
-                "103"
-            ]
+            "103"
         ],
         "fire": [
-            [
-                "101"
-            ]
+            "101"
         ],
         "notes": "Gas emergency -104."
     },
     {
         "country_name": "Belgium",
         "police": [
-            [
-                "101"
-            ],
-            [
-                "112"
-            ]
+            "101",
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Non-emergency number for the fire department -1722."
     },
     {
         "country_name": "Bosnia and Herzegovina",
         "police": [
-            [
-                "122"
-            ]
+            "122"
         ],
         "ambulance": [
-            [
-                "124"
-            ]
+            "124"
         ],
         "fire": [
-            [
-                "123"
-            ]
+            "123"
         ],
         "notes": "Civil protection -121."
     },
     {
         "country_name": "Bulgaria",
         "police": [
-            [
-                "112 or 166"
-            ]
+            "112 or 166"
         ],
         "ambulance": [
-            [
-                "112 or 150"
-            ]
+            "112 or 150"
         ],
         "fire": [
-            [
-                "112 or 160"
-            ]
+            "112 or 160"
         ],
         "notes": ""
     },
     {
         "country_name": "Croatia",
         "police": [
-            [
-                "112 or 192"
-            ]
+            "112 or 192"
         ],
         "ambulance": [
-            [
-                "112 or 194"
-            ]
+            "112 or 194"
         ],
         "fire": [
-            [
-                "112 or 193"
-            ]
+            "112 or 193"
         ],
         "notes": "Search and rescue at sea -112 or 195;Road help-1987."
     },
     {
         "country_name": "Cyprus",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "199"
-            ]
+            "112",
+            "199"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "199"
-            ]
+            "112",
+            "199"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "199"
-            ]
+            "112",
+            "199"
         ],
         "notes": "Air/sea rescue -1441;Anti-drug support -1410or1498; Poison control -1401."
     },
     {
         "country_name": "Czech Republic",
         "police": [
-            [
-                "112 or 158"
-            ]
+            "112 or 158"
         ],
         "ambulance": [
-            [
-                "112 or 155"
-            ]
+            "112 or 155"
         ],
         "fire": [
-            [
-                "112 or 150"
-            ]
+            "112 or 150"
         ],
         "notes": "Municipal police -156."
     },
     {
         "country_name": "Denmark",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Non-emergency police -114."
     },
     {
         "country_name": "Estonia",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Faroe Islands",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Non-emergency police -114."
     },
     {
         "country_name": "Finland",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Maritime rescue -02 94 1000;Poison Control -0800 147 111"
     },
     {
         "country_name": "France",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "17"
-            ]
+            "112",
+            "17"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "15"
-            ]
+            "112",
+            "15"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "18"
-            ]
+            "112",
+            "18"
         ],
         "notes": "Deaf FAX/SMS -114; Hotline for beaten children -119; Missing children -116 000; Maritime rescue -196."
     },
     {
         "country_name": "Georgia",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Germany",
         "police": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Traditionally110for the police and112for the fire brigade and rescue service. Due toEU Directive112 works also for the police;911redirects to112on telephones used inUSAFEbases. Rescue service additionally (outdating)19222. Non-emergency medical on-call duty:116 117. Debit and credit card locking call116 116. Administration-emergency call115. Military police:0800 190 9999. Federal (incl. railway) police:0800 6 888 000."
     },
     {
         "country_name": "Gibraltar",
         "police": [
-            [
-                "199"
-            ],
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "199",
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "190"
-            ],
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "190",
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "190"
-            ],
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "190",
+            "112",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Greece",
         "police": [
-            [
-                "100"
-            ]
+            "100"
         ],
         "ambulance": [
-            [
-                "166"
-            ]
+            "166"
         ],
         "fire": [
-            [
-                "199"
-            ]
+            "199"
         ],
         "notes": "General emergencies -112; Forest fire -1591;Coast guard-108; Counter-narcotics -109; Tourist police -171; Social aid -197."
     },
     {
         "country_name": "Greenland",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Mobile phones only. From landline phones dial the local police station, hospital or fire brigade."
     },
     {
         "country_name": "Guernsey",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Hungary",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "107"
-            ]
+            "112",
+            "107"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "104"
-            ]
+            "112",
+            "104"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "105"
-            ]
+            "112",
+            "105"
         ],
         "notes": "Water emergency -1817."
     },
     {
         "country_name": "Iceland",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Non-emergency police Reykjavík area -444 10 00;911redirects to112on mobile phones;+354 570 2112from abroad."
     },
     {
         "country_name": "Ireland",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "notes": "SMS messages can be sent to112after registration by sending a text message with the word 'Register' to112."
     },
     {
         "country_name": "Isle of Man",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Italy",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Older system, still in use in some regions but gradually phased out:Police-113;Carabinieri-112; Ambulance -118;Fire-115;Forest service-1515;Customs/Financial police-117; Child Abuse -114;Coast guard-1530.911redirects to112."
     },
     {
         "country_name": "Jersey",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Kosovo",
         "police": [
-            [
-                "192"
-            ]
+            "192"
         ],
         "ambulance": [
-            [
-                "194"
-            ]
+            "194"
         ],
         "fire": [
-            [
-                "193"
-            ]
+            "193"
         ],
         "notes": ""
     },
     {
         "country_name": "Latvia",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -110; Ambulance -113; Gas emergency -114."
     },
     {
         "country_name": "Lithuania",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -022; Ambulance -033; Fire -011."
     },
     {
         "country_name": "Liechtenstein",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "144"
-            ]
+            "144"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": ""
     },
     {
         "country_name": "Luxembourg",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -113."
     },
     {
         "country_name": "Malta",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Moldova",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Monaco",
         "police": [
-            [
-                "17"
-            ]
+            "17"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "15"
-            ]
+            "112",
+            "15"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "18"
-            ]
+            "112",
+            "18"
         ],
         "notes": ""
     },
     {
         "country_name": "Montenegro",
         "police": [
-            [
-                "122"
-            ]
+            "122"
         ],
         "ambulance": [
-            [
-                "124"
-            ]
+            "124"
         ],
         "fire": [
-            [
-                "123"
-            ]
+            "123"
         ],
         "notes": ""
     },
     {
         "country_name": "Netherlands",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Text phone -0800 81 12; Non-emergency police -0900 88 44or0343 578 844;Non-emergency police (text phone) -0900 18 44; Suicide prevention -113; Animal emergency -144; Child abuse -0900 123 12 30;Anti-bullying hotline -0800 90 50."
     },
     {
         "country_name": "North Macedonia",
         "police": [
-            [
-                "192 or 112"
-            ]
+            "192 or 112"
         ],
         "ambulance": [
-            [
-                "194 or 112"
-            ]
+            "194 or 112"
         ],
         "fire": [
-            [
-                "193 or 112"
-            ]
+            "193 or 112"
         ],
         "notes": "Police -192; Ambulance -194; Fire -193."
     },
     {
         "country_name": "Northern Cyprus",
         "police": [
-            [
-                "155"
-            ]
+            "155"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "199"
-            ]
+            "199"
         ],
         "notes": "Forest Fire -177; Coast Guard158; Civil Defense101."
     },
     {
         "country_name": "Norway",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "113"
-            ]
+            "113"
         ],
         "fire": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "notes": "Emergency at sea:120; non-emergency police:02 800;child abuse and family violence:116 111; text phone:1412;nearest health care outside office hours:116 117;911redirects to112."
     },
     {
         "country_name": "Poland",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "999 or 112"
-            ]
+            "999 or 112"
         ],
         "fire": [
-            [
-                "998 or 112"
-            ]
+            "998 or 112"
         ],
         "notes": "Municipal police –986; Mountain rescue –985or(+48) 601 100 300; Gas emergency –992; Road help -981."
     },
     {
         "country_name": "Portugal",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Forest fire –117; Social emergency –144.911redirects to112on telephones located atLajes Air Station."
     },
     {
         "country_name": "Romania",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "911redirects to112"
     },
     {
         "country_name": "Russia",
         "police": [
-            [
-                "102"
-            ],
-            [
-                "112"
-            ]
+            "102",
+            "112"
         ],
         "ambulance": [
-            [
-                "103"
-            ],
-            [
-                "112"
-            ]
+            "103",
+            "112"
         ],
         "fire": [
-            [
-                "101"
-            ],
-            [
-                "112"
-            ]
+            "101",
+            "112"
         ],
         "notes": "Gas emergency -104;112came into effect (for any emergency) in 2013"
     },
     {
         "country_name": "San Marino",
         "police": [
-            [
-                "113"
-            ]
+            "113"
         ],
         "ambulance": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "fire": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "notes": ""
     },
     {
         "country_name": "Serbia",
         "police": [
-            [
-                "192"
-            ],
-            [
-                "112"
-            ]
+            "192",
+            "112"
         ],
         "ambulance": [
-            [
-                "194"
-            ]
+            "194"
         ],
         "fire": [
-            [
-                "193"
-            ]
+            "193"
         ],
         "notes": "Civil protection -1985;112redirects to192. It is possible to dial 112 and get direct connection with the emergency services by pressing 1 for police, 2 for ambulance and 3 for fire on Vip operator mobile phones."
     },
     {
         "country_name": "Slovakia",
         "police": [
-            [
-                "158"
-            ]
+            "158"
         ],
         "ambulance": [
-            [
-                "155"
-            ]
+            "155"
         ],
         "fire": [
-            [
-                "150"
-            ]
+            "150"
         ],
         "notes": "Municipal police -159."
     },
     {
         "country_name": "Slovenia",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police –113; Road help -1987; Emergency at sea -080 18 00."
     },
     {
         "country_name": "Spain",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police:National Police-091;Civil Guard-062;Autonomic Police-112;Municipal Police-092.Fire:Local Firefighters-080;Autonomic Firefighters-085.Ambulance:SAMUR-061.Others:Civil Protection-1006,Maritime Rescue-902 202 202;Red Cross-901 222 222."
     },
     {
         "country_name": "Sweden",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Non-emergency police -114 14; Non-emergency medical advice -1177; Information during accidents and crises -113 13."
     },
     {
         "country_name": "Switzerland",
         "police": [
-            [
-                "117"
-            ]
+            "117"
         ],
         "ambulance": [
-            [
-                "144"
-            ]
+            "144"
         ],
         "fire": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "notes": "Poison control –145; Road help –0800 140 140; Psychological support –143; Psychological support for teens and children –147;Regaair rescue –1414or by radio on 161.300 MHz;Air Glaciersair-rescue (Valaisonly) –1415.The emergency number112is used differently based on theCanton. While in some cantons 112, 117, 118 and 114 are routed to a common emergency call center, in other cantons 112 together with 117 is directly routed to the police."
     },
     {
         "country_name": "Turkey",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Municipal police-153(112connects tonational police) ; Gas emergency and outages -187; Electricity emergency and outages -186; Water emergency and outages -185; Non-emergency medical consultation -184; Child abuse and family violence -183; Telephone emergency and outages -121; Poison control -114.911 automatically connects to 112. Current service is the result of consolidation of firefighter, emergency police, Gendarmerie, Coast Guard, forest fire, search and rescue, natural disaster and medical emergency numbers into medical emergency former solo number 112."
     },
     {
         "country_name": "Ukraine",
         "police": [
-            [
-                "102"
-            ]
+            "102"
         ],
         "ambulance": [
-            [
-                "103"
-            ]
+            "103"
         ],
         "fire": [
-            [
-                "101"
-            ]
+            "101"
         ],
         "notes": "General emergencies -112;Gas emergency - 104."
     },
     {
         "country_name": "United Kingdom",
         "police": [
-            [
-                "999"
-            ],
-            [
-                "112"
-            ]
+            "999",
+            "112"
         ],
         "ambulance": [
-            [
-                "999"
-            ],
-            [
-                "112"
-            ]
+            "999",
+            "112"
         ],
         "fire": [
-            [
-                "999"
-            ],
-            [
-                "112"
-            ]
+            "999",
+            "112"
         ],
         "notes": "Non-emergency police -101; Power outages -105;Non-emergency health issues -111; COVID-19 testing helpline -119; gas leaks -0800 111 999.SMS messages can be sent to999after registration by sending a text message with the word 'Register' to999.911redirects to999on mobile phones/public phoneboothsand on telephones used inUSAFEbases."
     },
     {
         "country_name": "Vatican City",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police–113; Ambulance –118;Fire–115."
     },
     {
         "country_name": "American Samoa",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Australia",
         "police": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "ambulance": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "fire": [
-            [
-                "000"
-            ]
+            "000"
         ],
         "notes": "Mobile phones -112or000;State Emergency Service–132 500; National relay service –106; Non-emergency police –131 444(NSW,QLD,VIC,SA,WA,NT,TASACT); Crime Stoppers –1800 333 000; Threats to national security –1800 123 400; Poison control –13 11 26;Lifeline–13 11 14."
     },
     {
         "country_name": "Cook Islands",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "998"
-            ]
+            "998"
         ],
         "fire": [
-            [
-                "996"
-            ]
+            "996"
         ],
         "notes": ""
     },
     {
         "country_name": "Fiji",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Crime Stoppers -919."
     },
     {
         "country_name": "French Polynesia",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "Guam",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Kiribati",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Police -192; Ambulance -194; Fire -193."
     },
     {
         "country_name": "Marshall Islands",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Micronesia",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Nauru",
         "police": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "ambulance": [
-            [
-                "111"
-            ]
+            "111"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "New Caledonia",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "New Zealand",
         "police": [
-            [
-                "111"
-            ]
+            "111"
         ],
         "ambulance": [
-            [
-                "111"
-            ]
+            "111"
         ],
         "fire": [
-            [
-                "111"
-            ]
+            "111"
         ],
         "notes": "SMS messages can be sent to111from registered mobile phones. Traffic -*555(mobile phones only).112and911redirect to111on mobile phones.Dialing000and999plays a pre-recorded message advising the caller to call111. Crime Stoppers -0800 555 111. Police non-emergency -105."
     },
     {
         "country_name": "Palau",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Papua New Guinea",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "111"
-            ]
+            "111"
         ],
         "fire": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "notes": ""
     },
     {
         "country_name": "Samoa",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": "Police -995; Ambulance -996; Fire -994."
     },
     {
         "country_name": "Solomon Islands",
         "police": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "ambulance": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "fire": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "notes": "In cities, local numbers exist which connect more quickly than either911or999."
     },
     {
         "country_name": "Tonga",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -922; Ambulance -933; Fire -999."
     },
     {
         "country_name": "Tuvalu",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Vanuatu",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Belize",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Clipperton Island",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "Costa Rica",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Mobile phones -112."
     },
     {
         "country_name": "Guatemala",
         "police": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "ambulance": [
-            [
-                "128"
-            ]
+            "128"
         ],
         "fire": [
-            [
-                "122"
-            ]
+            "122"
         ],
         "notes": "Police -120; Fire -123."
     },
     {
         "country_name": "El Salvador",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "132"
-            ]
+            "132"
         ],
         "fire": [
-            [
-                "913"
-            ]
+            "913"
         ],
         "notes": ""
     },
     {
         "country_name": "Honduras",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "195"
-            ]
+            "195"
         ],
         "fire": [
-            [
-                "198"
-            ]
+            "198"
         ],
         "notes": ""
     },
     {
         "country_name": "Nicaragua",
         "police": [
-            [
-                "118"
-            ]
+            "118"
         ],
         "ambulance": [
-            [
-                "128"
-            ]
+            "128"
         ],
         "fire": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "notes": "Fire -911."
     },
     {
         "country_name": "Panama",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -104; Fire -103."
     },
     {
         "country_name": "Antigua and Barbuda",
         "police": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "ambulance": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "fire": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Anguilla",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Aruba",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "The Bahamas",
         "police": [
-            [
-                "911"
-            ],
-            [
-                "919"
-            ]
+            "911",
+            "919"
         ],
         "ambulance": [
-            [
-                "911"
-            ],
-            [
-                "919"
-            ]
+            "911",
+            "919"
         ],
         "fire": [
-            [
-                "911"
-            ],
-            [
-                "919"
-            ]
+            "911",
+            "919"
         ],
         "notes": "Mobile phones -112."
     },
     {
         "country_name": "British Virgin Islands",
         "police": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "ambulance": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "fire": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Cayman Islands",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Cuba",
         "police": [
-            [
-                "106"
-            ]
+            "106"
         ],
         "ambulance": [
-            [
-                "104"
-            ]
+            "104"
         ],
         "fire": [
-            [
-                "105"
-            ]
+            "105"
         ],
         "notes": ""
     },
     {
         "country_name": "Curacao",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "912"
-            ]
+            "912"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Dominica",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Grenada",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Guadeloupe",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "Martinique",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "Montserrat",
         "police": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "ambulance": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "fire": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Navassa Island",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Saint Kitts and Nevis",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Saint Lucia",
         "police": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "ambulance": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "fire": [
-            [
-                "911"
-            ],
-            [
-                "999"
-            ]
+            "911",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Saint Vincent and the Grenadines",
         "police": [
-            [
-                "999"
-            ],
-            [
-                "911"
-            ],
-            [
-                "112"
-            ]
+            "999",
+            "911",
+            "112"
         ],
         "ambulance": [
-            [
-                "999"
-            ],
-            [
-                "911"
-            ],
-            [
-                "112"
-            ]
+            "999",
+            "911",
+            "112"
         ],
         "fire": [
-            [
-                "999"
-            ],
-            [
-                "911"
-            ],
-            [
-                "112"
-            ]
+            "999",
+            "911",
+            "112"
         ],
         "notes": ""
     },
     {
         "country_name": "Bonaire",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Dominican Republic",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "112redirects to911on mobile phones."
     },
     {
         "country_name": "Haiti",
         "police": [
-            [
-                "114"
-            ]
+            "114"
         ],
         "ambulance": [
-            [
-                "116"
-            ]
+            "116"
         ],
         "fire": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "notes": "Police -122."
     },
     {
         "country_name": "Puerto Rico",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Trinidad and Tobago",
         "police": [
-            [
-                "999"
-            ],
-            [
-                "911"
-            ]
+            "999",
+            "911"
         ],
         "ambulance": [
-            [
-                "811"
-            ]
+            "811"
         ],
         "fire": [
-            [
-                "990"
-            ]
+            "990"
         ],
         "notes": ""
     },
     {
         "country_name": "Jamaica",
         "police": [
-            [
-                "119"
-            ]
+            "119"
         ],
         "ambulance": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "fire": [
-            [
-                "110"
-            ]
+            "110"
         ],
         "notes": ""
     },
     {
         "country_name": "Bermuda",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": ""
     },
     {
         "country_name": "Canada",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Municipal services -311(some areas only).112may redirect to911on certain mobile phones."
     },
     {
         "country_name": "Mexico",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Emergency -911; Anonymous complaint -089."
     },
     {
         "country_name": "Saint Pierre and Miquelon",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "United States of America",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Text-to-9-1-1is available in many regions and will respond with an error anywhere else. Various services available through regional or nationalN11 codes(e.g.:311for non-emergency police or city services) in certain areas. Calling#77from a mobile phone may reach thehighway patrolin some states.Calling112from a mobile phone may redirect to911in some states/localities, but emergency officials recommend callers use the standard 911."
     },
     {
         "country_name": "Argentina",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -101; Ambulance -107; Fire -100; Civil defense -103; Forest fire -105; Coast guard -106.112redirects to911on mobile phones."
     },
     {
         "country_name": "Bolivia",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -110; Ambulance -118; Fire -119; Civil protection -114; National police -120."
     },
     {
         "country_name": "Brazil",
         "police": [
-            [
-                "190"
-            ]
+            "190"
         ],
         "ambulance": [
-            [
-                "192"
-            ]
+            "192"
         ],
         "fire": [
-            [
-                "193"
-            ]
+            "193"
         ],
         "notes": "Federal highway police -191; Federal police -194; Civil police -197; State highway police -198; Civil defense -199; Municipal guard -153; Human rights -100; Emergency in Mercosul area -128.112and911redirect to190on mobile phones;188- Hotline Help."
     },
     {
         "country_name": "Chile",
         "police": [
-            [
-                "133"
-            ]
+            "133"
         ],
         "ambulance": [
-            [
-                "131"
-            ]
+            "131"
         ],
         "fire": [
-            [
-                "132"
-            ]
+            "132"
         ],
         "notes": "Useful mnemonic isABC123:Ambulancia (Ambulance) - 131,Bomberos (Fire) - 132,Carabineros (Police) - 133.911redirects to133."
     },
     {
         "country_name": "Colombia",
         "police": [
-            [
-                "123"
-            ]
+            "123"
         ],
         "ambulance": [
-            [
-                "123"
-            ]
+            "123"
         ],
         "fire": [
-            [
-                "123"
-            ]
+            "123"
         ],
         "notes": "Police -112; Ambulance -125;Fire -119, Anti-kidnapping hotline -165."
     },
     {
         "country_name": "Ecuador",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -101; Ambulance -131; Fire -102; Emergency in Guayaquil -112; Traffic police in Guayaquil -103."
     },
     {
         "country_name": "Falkland Islands",
         "police": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "ambulance": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "fire": [
-            [
-                "112"
-            ],
-            [
-                "999"
-            ]
+            "112",
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "French Guiana",
         "police": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "ambulance": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "fire": [
-            [
-                "112"
-            ]
+            "112"
         ],
         "notes": "Police -17; Ambulance -15; Fire -18."
     },
     {
         "country_name": "Guyana",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "913"
-            ]
+            "913"
         ],
         "fire": [
-            [
-                "912"
-            ]
+            "912"
         ],
         "notes": "Childcare Protection Agency -227-0979; Human Trafficking -227-4083, 623-5030; Domestic Violence -914."
     },
     {
         "country_name": "Paraguay",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -912;Ambulance -141; Fire -132."
     },
     {
         "country_name": "Peru",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -105; Ambulance (SAMU) -106; Fire -116; Civil defense -115; Domestic violence -100."
     },
     {
         "country_name": "South Georgia and the South Sandwich Islands",
         "police": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "ambulance": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "fire": [
-            [
-                "999"
-            ]
+            "999"
         ],
         "notes": ""
     },
     {
         "country_name": "Suriname",
         "police": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "ambulance": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "fire": [
-            [
-                "115"
-            ]
+            "115"
         ],
         "notes": "Police -115; Ambulance -113; Fire -110."
     },
     {
         "country_name": "Uruguay",
         "police": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "ambulance": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "fire": [
-            [
-                "911"
-            ]
+            "911"
         ],
         "notes": "Police -109; Ambulance -105; Fire -104."
     },
     {
         "country_name": "Venezuela",
         "police": [
-            [
-                "911"
-            ],
-            [
-                "171"
-            ]
+            "911",
+            "171"
         ],
         "ambulance": [
-            [
-                "911"
-            ],
-            [
-                "171"
-            ]
+            "911",
+            "171"
         ],
         "fire": [
-            [
-                "911"
-            ],
-            [
-                "171"
-            ]
+            "911",
+            "171"
         ],
         "notes": ""
     }
