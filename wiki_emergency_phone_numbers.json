@@ -998,7 +998,7 @@
     {
         "country_name": "Iran",
         "police": [
-            ""
+            "110"
         ],
         "ambulance": [
             "115"
@@ -1571,26 +1571,32 @@
     {
         "country_name": "Bulgaria",
         "police": [
-            "112 or 166"
+            "112",
+            "166"
         ],
         "ambulance": [
-            "112 or 150"
+            "112",
+            "150"
         ],
         "fire": [
-            "112 or 160"
+            "112",
+            "160"
         ],
         "notes": ""
     },
     {
         "country_name": "Croatia",
         "police": [
-            "112 or 192"
+            "112",
+            "192"
         ],
         "ambulance": [
-            "112 or 194"
+            "112",
+            "194"
         ],
         "fire": [
-            "112 or 193"
+            "112",
+            "193"
         ],
         "notes": "Search and rescue at sea - 112 or 195; Road help - 1987."
     },
@@ -1613,13 +1619,16 @@
     {
         "country_name": "Czech Republic",
         "police": [
-            "112 or 158"
+            "112",
+            "158"
         ],
         "ambulance": [
-            "112 or 155"
+            "112",
+            "155"
         ],
         "fire": [
-            "112 or 150"
+            "112",
+            "150"
         ],
         "notes": "Municipal police - 156."
     },
@@ -2003,13 +2012,16 @@
     {
         "country_name": "North Macedonia",
         "police": [
-            "192 or 112"
+            "192",
+            "112"
         ],
         "ambulance": [
-            "194 or 112"
+            "194",
+            "112"
         ],
         "fire": [
-            "193 or 112"
+            "193",
+            "112"
         ],
         "notes": "Police - 192; Ambulance - 194; Fire - 193."
     },
@@ -2045,10 +2057,12 @@
             "112"
         ],
         "ambulance": [
-            "999 or 112"
+            "999",
+            "112"
         ],
         "fire": [
-            "998 or 112"
+            "998",
+            "112"
         ],
         "notes": "Municipal police – 986; Mountain rescue – 985 or (+48) 601 100 300; Gas emergency – 992; Road help - 981."
     },

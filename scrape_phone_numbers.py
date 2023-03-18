@@ -26,9 +26,13 @@ def get_all_phonenumbers(element):
     result = []
     for phone in phones:
         text = get_text(phone)
-        # Angola ambulance is "112/116", need split it
-        split = text.split('/')
-        result += split
+        # Poland ambulance is "999 or 112", need split it
+        if " or " in text:
+            result += text.split(" or ")
+        else:
+            # Angola ambulance is "112/116", need split it
+            split = text.split('/')
+            result += split
     return result
 
 def get_text_withouttag(element, tag):
@@ -125,6 +129,10 @@ for table in tables:
 
         country['country_name'] = country_name
         country['police'] = police
+        
+        if country_name == "Iran":
+            country['police'] = ["110"]
+
         country['ambulance'] = ambulance
         country['fire'] = fire
         country['notes'] = notes
