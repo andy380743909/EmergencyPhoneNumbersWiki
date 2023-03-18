@@ -17,6 +17,9 @@ from bs4 import NavigableString, Tag
 import csv
    
 
+def get_country_name(element):
+    name = get_text_withouttag(element, 'span')
+    return name
 
 def get_all_phonenumbers(element):
     phones = element.find_all('b')
@@ -32,11 +35,11 @@ def get_text_withouttag(element, tag):
     texts = []
     for t in element.children:
         if isinstance(t, NavigableString):
-            texts.append(t.strip())
+            texts.append(t)
         elif t.name == tag:
             continue
         else:
-            texts.append(t.text.strip())
+            texts.append(t.text)
     text = "".join(texts)
     return text
 
@@ -72,13 +75,13 @@ for table in tables:
 
         country = {}
 
-        country_name = tds[0].find('a').text.strip()
+        country_name = get_country_name(tds[0]).strip()
         country['country_name'] = country_name
 
         police = []
         ambulance = []
         fire = []
-        notes = get_text_withouttag(tds[-1], 'sup')
+        notes = get_text_withouttag(tds[-1], 'sup').strip()
 
         td1 = tds[1]
         colspan = td1.get('colspan','1')

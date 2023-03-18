@@ -10,7 +10,7 @@
         "fire": [
             "14"
         ],
-        "notes": "Gendarme -1055"
+        "notes": "Gendarme - 1055"
     },
     {
         "country_name": "Angola",
@@ -76,7 +76,7 @@
         "fire": [
             "998"
         ],
-        "notes": "Mobile phones -112."
+        "notes": "Mobile phones - 112."
     },
     {
         "country_name": "Burkina Faso",
@@ -102,7 +102,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -117; Ambulance -119; Fire -118; Electricity emergency -8010."
+        "notes": "Police - 117; Ambulance - 119; Fire - 118; Electricity emergency - 8010."
     },
     {
         "country_name": "Cape Verde",
@@ -141,7 +141,7 @@
         "fire": [
             "18"
         ],
-        "notes": "Ambulance -2251-1237."
+        "notes": "Ambulance - 2251-1237."
     },
     {
         "country_name": "Comoros",
@@ -154,7 +154,7 @@
         "fire": [
             "18"
         ],
-        "notes": "Ambulance -773-26-04."
+        "notes": "Ambulance - 773-26-04."
     },
     {
         "country_name": "Republic of Congo",
@@ -203,7 +203,7 @@
         "fire": [
             "180"
         ],
-        "notes": "Tourist police -126; Traffic police -128; Electricity emergency -121; Gas emergency -129; Mobile phones -112."
+        "notes": "Tourist police - 126; Traffic police - 128; Electricity emergency - 121; Gas emergency - 129; Mobile phones - 112."
     },
     {
         "country_name": "Equatorial Guinea",
@@ -216,7 +216,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Traffic police -116."
+        "notes": "Traffic police - 116."
     },
     {
         "country_name": "Eritrea",
@@ -255,7 +255,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -991;Ambulance -907;Fire -939;Traffic police -945."
+        "notes": "Police - 991; Ambulance - 907; Fire - 939; Traffic police - 945."
     },
     {
         "country_name": "Gabon",
@@ -281,7 +281,7 @@
         "fire": [
             "118"
         ],
-        "notes": "Police -112; Electricity emergency -124; Water emergency -125."
+        "notes": "Police - 112; Electricity emergency - 124; Water emergency - 125."
     },
     {
         "country_name": "Ghana",
@@ -294,7 +294,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -191; Ambulance -193; Fire -192."
+        "notes": "Police - 191; Ambulance - 193; Fire - 192."
     },
     {
         "country_name": "Guinea",
@@ -320,7 +320,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -117; Ambulance -119; Fire -118."
+        "notes": "Police - 117; Ambulance - 119; Fire - 118."
     },
     {
         "country_name": "Ivory Coast",
@@ -380,7 +380,7 @@
         "fire": [
             "1515"
         ],
-        "notes": "Ambulance -193."
+        "notes": "Ambulance - 193."
     },
     {
         "country_name": "Lesotho",
@@ -406,7 +406,7 @@
         "fire": [
             "118"
         ],
-        "notes": "Traffic police -3600."
+        "notes": "Traffic police - 3600."
     },
     {
         "country_name": "Malawi",
@@ -419,7 +419,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Police -990."
+        "notes": "Police - 990."
     },
     {
         "country_name": "Mali",
@@ -432,7 +432,7 @@
         "fire": [
             "18"
         ],
-        "notes": "Ambulance -112, Fire -112."
+        "notes": "Ambulance - 112, Fire - 112."
     },
     {
         "country_name": "Mauritius",
@@ -445,7 +445,7 @@
         "fire": [
             "115"
         ],
-        "notes": "Police -999; Fire -995."
+        "notes": "Police - 999; Fire - 995."
     },
     {
         "country_name": "Mauritania",
@@ -458,7 +458,7 @@
         "fire": [
             "118"
         ],
-        "notes": "Gendarmerie -116; Traffic police -119."
+        "notes": "Gendarmerie - 116; Traffic police - 119."
     },
     {
         "country_name": "Mayotte",
@@ -471,7 +471,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "Morocco",
@@ -484,7 +484,7 @@
         "fire": [
             "15"
         ],
-        "notes": "Royal gendarmerie -177; Drugs & alcohol service -113; Racial discrimination hotline -114; Non-emergency disturbances -110; General information -160; National Freeway call center -5050; Mobile phones -112."
+        "notes": "Royal gendarmerie - 177; Drugs & alcohol service - 113; Racial discrimination hotline - 114; Non-emergency disturbances - 110; General information - 160; National Freeway call center - 5050; Mobile phones - 112."
     },
     {
         "country_name": "Mozambique",
@@ -545,7 +545,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "Rwanda",
@@ -558,7 +558,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Traffic police -113."
+        "notes": "Traffic police - 113."
     },
     {
         "country_name": "Saint Helena",
@@ -613,7 +613,7 @@
             "112",
             "999"
         ],
-        "notes": "Police -133; Ambulance -151."
+        "notes": "Police - 133; Ambulance - 151."
     },
     {
         "country_name": "Sierra Leone",
@@ -639,7 +639,7 @@
         "fire": [
             "555"
         ],
-        "notes": "Traffic police -777."
+        "notes": "Traffic police - 777."
     },
     {
         "country_name": "South Africa",
@@ -652,7 +652,7 @@
         "fire": [
             "10 177"
         ],
-        "notes": "Emergency in Cape Town -107; Mobile phones -112."
+        "notes": "Emergency in Cape Town - 107; Mobile phones - 112."
     },
     {
         "country_name": "Sudan",
@@ -665,7 +665,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Traffic police -777 777."
+        "notes": "Traffic police - 777 777."
     },
     {
         "country_name": "South Sudan",
@@ -691,7 +691,7 @@
         "fire": [
             "115"
         ],
-        "notes": "Police -999."
+        "notes": "Police - 999."
     },
     {
         "country_name": "Togo",
@@ -730,7 +730,7 @@
         "fire": [
             "198"
         ],
-        "notes": "National guard -193."
+        "notes": "National guard - 193."
     },
     {
         "country_name": "Uganda",
@@ -743,7 +743,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -999; Fire -999."
+        "notes": "Police - 999; Fire - 999."
     },
     {
         "country_name": "Western Sahara",
@@ -769,7 +769,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Police -911; Ambulance -992; Fire -993; Mobile phones -112."
+        "notes": "Police - 911; Ambulance - 992; Fire - 993; Mobile phones - 112."
     },
     {
         "country_name": "Zimbabwe",
@@ -782,7 +782,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Police -995; Ambulance -994; Fire -993; Mobile phones -112."
+        "notes": "Police - 995; Ambulance - 994; Fire - 993; Mobile phones - 112."
     },
     {
         "country_name": "Antarctica",
@@ -821,7 +821,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Mobile phones -112, Traffic police -199, Coast Guard -994."
+        "notes": "Mobile phones - 112, Traffic police - 199, Coast Guard - 994."
     },
     {
         "country_name": "Bangladesh",
@@ -834,7 +834,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Anti Corruption Commission -106, Agricultural Information Services -16123, Health Services16263, Dhaka WASA16162, Women and Children Ministry109, Legal Services16430, National Information Service -333, IEDCR Helpline (for CoVid-19) -10655"
+        "notes": "Anti Corruption Commission - 106, Agricultural Information Services - 16123, Health Services 16263, Dhaka WASA 16162, Women and Children Ministry 109, Legal Services 16430, National Information Service - 333, IEDCR Helpline (for CoVid-19) - 10655"
     },
     {
         "country_name": "Bhutan",
@@ -876,7 +876,7 @@
         "fire": [
             "995"
         ],
-        "notes": "Search and Rescue -998"
+        "notes": "Search and Rescue - 998"
     },
     {
         "country_name": "Myanmar",
@@ -889,7 +889,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Police -199; Ambulance -192; Fire -191(can also call for Natural disasters)Highway police - 1880;Relief - 067-340-4222 (Ministry hotline);International hotline - 122;Covid-19 hotline - 2019."
+        "notes": "Police - 199; Ambulance - 192; Fire - 191 (can also call for Natural disasters)\nHighway police - 1880;\nRelief - 067-340-4222 (Ministry hotline);\nInternational hotline - 122;\nCovid-19 hotline - 2019."
     },
     {
         "country_name": "Cambodia",
@@ -902,7 +902,7 @@
         "fire": [
             "118"
         ],
-        "notes": "Child helpline -1280."
+        "notes": "Child helpline - 1280."
     },
     {
         "country_name": "People's Republic of China",
@@ -967,7 +967,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Mobile phones -911or112(Automatically redirects to999)."
+        "notes": "Mobile phones - 911 or 112 (Automatically redirects to 999)."
     },
     {
         "country_name": "India",
@@ -980,7 +980,7 @@
         "fire": [
             "112"
         ],
-        "notes": ".mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}Gas leakage - 1906\nTourist Helpline - 1363\nChild Helpline - 1098\nDisaster management - 104\nWomen Helpline - 181\nPolice - 100\nAmbulance - 108\nFire brigade - 101\n[25]"
+        "notes": ".mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}\nGas leakage - 1906\nTourist Helpline - 1363\nChild Helpline - 1098\nDisaster management - 104\nWomen Helpline - 181\nPolice - 100\nAmbulance - 108\nFire brigade - 101\n[25]"
     },
     {
         "country_name": "Indonesia",
@@ -993,7 +993,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -110;Ambulance -118or119; Fire -113or1131; Search & rescue -115; Natural disasters -129; Electricity emergency -123;Mental health -1-500-454."
+        "notes": "Police - 110; Ambulance - 118 or 119; Fire - 113 or 1131; Search & rescue - 115; Natural disasters - 129; Electricity emergency - 123; Mental health - 1-500-454."
     },
     {
         "country_name": "Iran",
@@ -1006,7 +1006,7 @@
         "fire": [
             "125"
         ],
-        "notes": "General emergencies is also110. Social Emergency -123; Roads Traffic Information Center -141; Iranian Red Crescent -112(non-mobile phones).112 and 911 redirect to 110 on mobile phones."
+        "notes": "General emergencies is also 110. Social Emergency - 123; Roads Traffic Information Center - 141; Iranian Red Crescent - 112 (non-mobile phones).\n112 and 911 redirect to 110 on mobile phones."
     },
     {
         "country_name": "Iraq",
@@ -1022,7 +1022,7 @@
             "112",
             "911"
         ],
-        "notes": "Police -104; Ambulance -122; Fire -115."
+        "notes": "Police - 104; Ambulance - 122; Fire - 115."
     },
     {
         "country_name": "Israel",
@@ -1035,7 +1035,7 @@
         "fire": [
             "102"
         ],
-        "notes": "Israel Electric Corporation-103;Home Front Command-104; Online child abuse hotline -105; Non-emergency municipal hazards -106; Non-emergency police inquiries -110; Mobile phones -112."
+        "notes": "Israel Electric Corporation - 103; Home Front Command - 104; Online child abuse hotline - 105; Non-emergency municipal hazards - 106; Non-emergency police inquiries - 110; Mobile phones - 112."
     },
     {
         "country_name": "Japan",
@@ -1048,7 +1048,7 @@
         "fire": [
             "119"
         ],
-        "notes": "Coast guard-118;Information about emergencies -#7119free call; Information about emergencies -#9110pay call;Roadside assistance-#8139.112and911redirect to110on mobile phones and telephones that are present at allUnited States military installations."
+        "notes": "Coast guard - 118; Information about emergencies - #7119 free call; Information about emergencies - #9110 pay call; Roadside assistance - #8139.  112 and 911 redirect to 110 on mobile phones and telephones that are present at all United States military installations."
     },
     {
         "country_name": "Jordan",
@@ -1061,7 +1061,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Mobile phones -112."
+        "notes": "Mobile phones - 112."
     },
     {
         "country_name": "Kazakhstan",
@@ -1074,7 +1074,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -102; Ambulance -103; Fire -101; Gas leaks -104."
+        "notes": "Police - 102; Ambulance - 103; Fire - 101; Gas leaks - 104."
     },
     {
         "country_name": "Kyrgyzstan",
@@ -1090,7 +1090,7 @@
         "notes": ""
     },
     {
-        "country_name": "",
+        "country_name": "Democratic People's Republic of Korea",
         "police": [
             "local numbers only"
         ],
@@ -1103,7 +1103,7 @@
         "notes": ""
     },
     {
-        "country_name": "",
+        "country_name": "Republic of Korea",
         "police": [
             "112"
         ],
@@ -1113,7 +1113,7 @@
         "fire": [
             "119"
         ],
-        "notes": "Non Emergency -110;National security -111; Reporting spies -113; Narcotics Report -127; Lost and Found Center -182; Travel Hotline -1330."
+        "notes": "Non Emergency - 110; National security - 111; Reporting spies - 113; Narcotics Report - 127; Lost and Found Center - 182; Travel Hotline - 1330."
     },
     {
         "country_name": "Kuwait",
@@ -1153,7 +1153,7 @@
         "fire": [
             "175"
         ],
-        "notes": "Police -160; Civil defense -125."
+        "notes": "Police - 160; Civil defense - 125."
     },
     {
         "country_name": "Macau",
@@ -1166,7 +1166,7 @@
         "fire": [
             "999"
         ],
-        "notes": "From mobile phones -110or112(all redirects to999)"
+        "notes": "From mobile phones - 110 or 112 (all redirects to 999)"
     },
     {
         "country_name": "Maldives",
@@ -1179,7 +1179,7 @@
         "fire": [
             "118"
         ],
-        "notes": "Traffic police -191."
+        "notes": "Traffic police - 191."
     },
     {
         "country_name": "Malaysia",
@@ -1205,7 +1205,7 @@
         "fire": [
             "105"
         ],
-        "notes": "Police -102; Ambulance -103; Fire -101."
+        "notes": "Police - 102; Ambulance - 103; Fire - 101."
     },
     {
         "country_name": "Nepal",
@@ -1218,7 +1218,7 @@
         "fire": [
             "101"
         ],
-        "notes": "Traffic police -103; From mobile phones -112."
+        "notes": "Traffic police - 103; From mobile phones - 112."
     },
     {
         "country_name": "Oman",
@@ -1231,7 +1231,7 @@
         "fire": [
             "9999"
         ],
-        "notes": "From mobile phones -112."
+        "notes": "From mobile phones - 112."
     },
     {
         "country_name": "Pakistan",
@@ -1245,7 +1245,7 @@
         "fire": [
             "16"
         ],
-        "notes": "Ambulance -1122;Traffic police -1915; Mobile phones -112;PunjabWomen's toll free helpline -1043;Tourist police -1422;National Highways & Motorway Police -130;Child Protection & Welfare Bureau -1121."
+        "notes": "Ambulance - 1122; Traffic police - 1915; Mobile phones - 112; Punjab Women's toll free helpline - 1043; Tourist police - 1422; National Highways & Motorway Police - 130; Child Protection & Welfare Bureau - 1121."
     },
     {
         "country_name": "Philippines",
@@ -1258,7 +1258,7 @@
         "fire": [
             ""
         ],
-        "notes": "Child abuse (Bantay Bata) -163; Human trafficking -1343;From mobile phones - 112"
+        "notes": "Child abuse (Bantay Bata) - 163; Human trafficking - 1343;\nFrom mobile phones - 112"
     },
     {
         "country_name": "Qatar",
@@ -1271,7 +1271,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Mobile phones -112."
+        "notes": "Mobile phones - 112."
     },
     {
         "country_name": "Saudi Arabia",
@@ -1284,7 +1284,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -999; Ambulance -997; Fire -998; Traffic police -993."
+        "notes": "Police - 999; Ambulance - 997; Fire - 998; Traffic police - 993."
     },
     {
         "country_name": "Singapore",
@@ -1297,7 +1297,7 @@
         "fire": [
             "995"
         ],
-        "notes": "Mobile phones -112or911; Non-emergency ambulance -1777; Police hotline -1800 255 0000; Traffic police -6547 0000."
+        "notes": "Mobile phones - 112 or 911; Non-emergency ambulance - 1777; Police hotline - 1800 255 0000; Traffic police - 6547 0000."
     },
     {
         "country_name": "Sri Lanka",
@@ -1310,7 +1310,7 @@
         "fire": [
             "110"
         ],
-        "notes": "Traffic police -112 691 111."
+        "notes": "Traffic police - 112 691 111."
     },
     {
         "country_name": "Syria",
@@ -1326,7 +1326,7 @@
         "notes": ""
     },
     {
-        "country_name": "Republic of China",
+        "country_name": "Republic of China (Taiwan)",
         "police": [
             "110"
         ],
@@ -1336,7 +1336,7 @@
         "fire": [
             "119"
         ],
-        "notes": "112on mobile phones - after call is connected0redirects110and9redirects119;Domestic violence -113."
+        "notes": "112 on mobile phones - after call is connected 0 redirects 110 and 9 redirects 119; Domestic violence - 113."
     },
     {
         "country_name": "Tajikistan",
@@ -1349,7 +1349,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -102; Ambulance -103; Fire -101; Gas leaks -104."
+        "notes": "Police - 102; Ambulance - 103; Fire - 101; Gas leaks - 104."
     },
     {
         "country_name": "Thailand",
@@ -1363,7 +1363,7 @@
         "fire": [
             "199"
         ],
-        "notes": "911can also be used as universal emergency number;Ambulance (Bangkok only) -1646; Tourist police -1155; Traffic control center (Bangkok Metro only) -1197; Highway patrol -1193; Mobile Phones -112."
+        "notes": "911 can also be used as universal emergency number; Ambulance (Bangkok only) - 1646; Tourist police - 1155; Traffic control center (Bangkok Metro only) - 1197; Highway patrol - 1193; Mobile Phones - 112."
     },
     {
         "country_name": "Turkmenistan",
@@ -1376,7 +1376,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -102; Ambulance -103; Fire -101; Gas leaks -104."
+        "notes": "Police - 102; Ambulance - 103; Fire - 101; Gas leaks - 104."
     },
     {
         "country_name": "United Arab Emirates",
@@ -1389,7 +1389,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Police -911; Ambulance - 998; Fire - 997; Coast guard -996; Non-emergency police -901; Water failure -922;Electricity failure- 991"
+        "notes": "Police - 911; Ambulance - 998; Fire - 997; Coast guard - 996; Non-emergency police - 901; Water failure - 922; Electricity failure - 991"
     },
     {
         "country_name": "Uzbekistan",
@@ -1402,7 +1402,7 @@
         "fire": [
             "103"
         ],
-        "notes": "Emergency service -1050; Gas leaks-104; Housing and communal services -1055."
+        "notes": "Emergency service - 1050; Gas leaks- 104; Housing and communal services - 1055."
     },
     {
         "country_name": "Vietnam",
@@ -1415,7 +1415,7 @@
         "fire": [
             "114"
         ],
-        "notes": "111- Child abuse"
+        "notes": "111 - Child abuse"
     },
     {
         "country_name": "Yemen",
@@ -1457,7 +1457,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Non-emergency police -018 527 100; Poison control -09 471 977."
+        "notes": "Non-emergency police - 018 527 100; Poison control - 09 471 977."
     },
     {
         "country_name": "Albania",
@@ -1470,7 +1470,7 @@
         "fire": [
             "128"
         ],
-        "notes": "Traffic police -126; Emergency at sea -125."
+        "notes": "Traffic police - 126; Emergency at sea - 125."
     },
     {
         "country_name": "Andorra",
@@ -1483,7 +1483,7 @@
         "fire": [
             "118"
         ],
-        "notes": "112 -Mountain / Sky Rescue collaboration with Spanish (Catalan) and French authorities"
+        "notes": "112 - Mountain / Sky Rescue collaboration with Spanish (Catalan) and French authorities"
     },
     {
         "country_name": "Armenia",
@@ -1499,7 +1499,7 @@
             "112",
             "911"
         ],
-        "notes": "Police -102; Ambulance -103; Fire -101; Gas emergency -104; Traffic police -177; Search & rescue -108."
+        "notes": "Police - 102; Ambulance - 103; Fire - 101; Gas emergency - 104; Traffic police - 177; Search & rescue - 108."
     },
     {
         "country_name": "Austria",
@@ -1513,7 +1513,7 @@
         "fire": [
             "122"
         ],
-        "notes": "Gas emergency -128; Mountain rescue -140; Doctors -141; Crisis-hotline -142; Support for children and teens -147; Non-emergency police -059 133; Deaf fax/SMS -0800 133 133; Poisoning Informations Center -01 406 43 43. The emergency telephone number112will be answered by the police, but will also handle other emergency services."
+        "notes": "Gas emergency - 128; Mountain rescue - 140; Doctors - 141; Crisis-hotline - 142; Support for children and teens - 147; Non-emergency police - 059 133; Deaf fax/SMS - 0800 133 133; Poisoning Informations Center - 01 406 43 43. The emergency telephone number 112 will be answered by the police, but will also handle other emergency services."
     },
     {
         "country_name": "Azerbaijan",
@@ -1526,7 +1526,7 @@
         "fire": [
             "101"
         ],
-        "notes": "Gas Service -104; Traffic police -902; Electricity emergency -199; Emergency -112."
+        "notes": "Gas Service - 104; Traffic police - 902; Electricity emergency - 199; Emergency - 112."
     },
     {
         "country_name": "Belarus",
@@ -1539,10 +1539,10 @@
         "fire": [
             "101"
         ],
-        "notes": "Gas emergency -104."
+        "notes": "Gas emergency - 104."
     },
     {
-        "country_name": "Belgium",
+        "country_name": "Belgium[46]",
         "police": [
             "101",
             "112"
@@ -1553,7 +1553,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Non-emergency number for the fire department -1722."
+        "notes": "Non-emergency number for the fire department - 1722."
     },
     {
         "country_name": "Bosnia and Herzegovina",
@@ -1566,7 +1566,7 @@
         "fire": [
             "123"
         ],
-        "notes": "Civil protection -121."
+        "notes": "Civil protection - 121."
     },
     {
         "country_name": "Bulgaria",
@@ -1592,7 +1592,7 @@
         "fire": [
             "112 or 193"
         ],
-        "notes": "Search and rescue at sea -112 or 195;Road help-1987."
+        "notes": "Search and rescue at sea - 112 or 195; Road help - 1987."
     },
     {
         "country_name": "Cyprus",
@@ -1608,7 +1608,7 @@
             "112",
             "199"
         ],
-        "notes": "Air/sea rescue -1441;Anti-drug support -1410or1498; Poison control -1401."
+        "notes": "Air/sea rescue - 1441; Anti-drug support - 1410 or 1498; Poison control - 1401."
     },
     {
         "country_name": "Czech Republic",
@@ -1621,7 +1621,7 @@
         "fire": [
             "112 or 150"
         ],
-        "notes": "Municipal police -156."
+        "notes": "Municipal police - 156."
     },
     {
         "country_name": "Denmark",
@@ -1634,7 +1634,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Non-emergency police -114."
+        "notes": "Non-emergency police - 114."
     },
     {
         "country_name": "Estonia",
@@ -1660,7 +1660,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Non-emergency police -114."
+        "notes": "Non-emergency police - 114."
     },
     {
         "country_name": "Finland",
@@ -1673,7 +1673,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Maritime rescue -02 94 1000;Poison Control -0800 147 111"
+        "notes": "Maritime rescue - 02 94 1000; Poison Control - 0800 147 111"
     },
     {
         "country_name": "France",
@@ -1689,7 +1689,7 @@
             "112",
             "18"
         ],
-        "notes": "Deaf FAX/SMS -114; Hotline for beaten children -119; Missing children -116 000; Maritime rescue -196."
+        "notes": "Deaf FAX/SMS - 114; Hotline for beaten children - 119; Missing children - 116 000; Maritime rescue - 196."
     },
     {
         "country_name": "Georgia",
@@ -1715,7 +1715,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Traditionally110for the police and112for the fire brigade and rescue service. Due toEU Directive112 works also for the police;911redirects to112on telephones used inUSAFEbases. Rescue service additionally (outdating)19222. Non-emergency medical on-call duty:116 117. Debit and credit card locking call116 116. Administration-emergency call115. Military police:0800 190 9999. Federal (incl. railway) police:0800 6 888 000."
+        "notes": "Traditionally 110 for the police and 112 for the fire brigade and rescue service. Due to EU Directive 112 works also for the police; 911 redirects to 112 on telephones used in USAFE bases. Rescue service additionally (outdating) 19222. Non-emergency medical on-call duty: 116 117. Debit and credit card locking call 116 116. Administration-emergency call 115. Military police: 0800 190 9999. Federal (incl. railway) police: 0800 6 888 000."
     },
     {
         "country_name": "Gibraltar",
@@ -1747,7 +1747,7 @@
         "fire": [
             "199"
         ],
-        "notes": "General emergencies -112; Forest fire -1591;Coast guard-108; Counter-narcotics -109; Tourist police -171; Social aid -197."
+        "notes": "General emergencies - 112; Forest fire - 1591; Coast guard - 108; Counter-narcotics - 109; Tourist police - 171; Social aid - 197."
     },
     {
         "country_name": "Greenland",
@@ -1792,7 +1792,7 @@
             "112",
             "105"
         ],
-        "notes": "Water emergency -1817."
+        "notes": "Water emergency - 1817."
     },
     {
         "country_name": "Iceland",
@@ -1805,7 +1805,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Non-emergency police Reykjavík area -444 10 00;911redirects to112on mobile phones;+354 570 2112from abroad."
+        "notes": "Non-emergency police Reykjavík area - 444 10 00; 911 redirects to 112 on mobile phones; +354 570 2112 from abroad."
     },
     {
         "country_name": "Ireland",
@@ -1821,7 +1821,7 @@
             "112",
             "999"
         ],
-        "notes": "SMS messages can be sent to112after registration by sending a text message with the word 'Register' to112."
+        "notes": "SMS messages can be sent to 112 after registration by sending a text message with the word 'Register' to 112."
     },
     {
         "country_name": "Isle of Man",
@@ -1850,7 +1850,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Older system, still in use in some regions but gradually phased out:Police-113;Carabinieri-112; Ambulance -118;Fire-115;Forest service-1515;Customs/Financial police-117; Child Abuse -114;Coast guard-1530.911redirects to112."
+        "notes": "Older system, still in use in some regions but gradually phased out: Police - 113; Carabinieri - 112; Ambulance - 118; Fire - 115; Forest service - 1515; Customs/Financial police - 117; Child Abuse - 114; Coast guard - 1530. 911 redirects to 112."
     },
     {
         "country_name": "Jersey",
@@ -1869,7 +1869,7 @@
         "notes": ""
     },
     {
-        "country_name": "Kosovo",
+        "country_name": "Kosovo[56]",
         "police": [
             "192"
         ],
@@ -1892,7 +1892,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -110; Ambulance -113; Gas emergency -114."
+        "notes": "Police - 110; Ambulance - 113; Gas emergency - 114."
     },
     {
         "country_name": "Lithuania",
@@ -1905,7 +1905,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -022; Ambulance -033; Fire -011."
+        "notes": "Police - 022; Ambulance - 033; Fire - 011."
     },
     {
         "country_name": "Liechtenstein",
@@ -1931,7 +1931,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -113."
+        "notes": "Police - 113."
     },
     {
         "country_name": "Malta",
@@ -1998,7 +1998,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Text phone -0800 81 12; Non-emergency police -0900 88 44or0343 578 844;Non-emergency police (text phone) -0900 18 44; Suicide prevention -113; Animal emergency -144; Child abuse -0900 123 12 30;Anti-bullying hotline -0800 90 50."
+        "notes": "Text phone - 0800 81 12; Non-emergency police - 0900 88 44 or 0343 578 844; Non-emergency police (text phone) - 0900 18 44; Suicide prevention - 113; Animal emergency - 144; Child abuse - 0900 123 12 30; Anti-bullying hotline - 0800 90 50."
     },
     {
         "country_name": "North Macedonia",
@@ -2011,10 +2011,10 @@
         "fire": [
             "193 or 112"
         ],
-        "notes": "Police -192; Ambulance -194; Fire -193."
+        "notes": "Police - 192; Ambulance - 194; Fire - 193."
     },
     {
-        "country_name": "Northern Cyprus",
+        "country_name": "Northern Cyprus[62]",
         "police": [
             "155"
         ],
@@ -2024,7 +2024,7 @@
         "fire": [
             "199"
         ],
-        "notes": "Forest Fire -177; Coast Guard158; Civil Defense101."
+        "notes": "Forest Fire - 177; Coast Guard 158; Civil Defense 101."
     },
     {
         "country_name": "Norway",
@@ -2037,7 +2037,7 @@
         "fire": [
             "110"
         ],
-        "notes": "Emergency at sea:120; non-emergency police:02 800;child abuse and family violence:116 111; text phone:1412;nearest health care outside office hours:116 117;911redirects to112."
+        "notes": "Emergency at sea: 120; non-emergency police: 02 800; child abuse and family violence: 116 111; text phone: 1412; nearest health care outside office hours: 116 117; 911 redirects to 112."
     },
     {
         "country_name": "Poland",
@@ -2050,7 +2050,7 @@
         "fire": [
             "998 or 112"
         ],
-        "notes": "Municipal police –986; Mountain rescue –985or(+48) 601 100 300; Gas emergency –992; Road help -981."
+        "notes": "Municipal police – 986; Mountain rescue – 985 or (+48) 601 100 300; Gas emergency – 992; Road help - 981."
     },
     {
         "country_name": "Portugal",
@@ -2063,7 +2063,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Forest fire –117; Social emergency –144.911redirects to112on telephones located atLajes Air Station."
+        "notes": "Forest fire – 117; Social emergency – 144. 911 redirects to 112 on telephones located at Lajes Air Station."
     },
     {
         "country_name": "Romania",
@@ -2076,7 +2076,7 @@
         "fire": [
             "112"
         ],
-        "notes": "911redirects to112"
+        "notes": "911 redirects to 112"
     },
     {
         "country_name": "Russia",
@@ -2092,7 +2092,7 @@
             "101",
             "112"
         ],
-        "notes": "Gas emergency -104;112came into effect (for any emergency) in 2013"
+        "notes": "Gas emergency - 104; 112 came into effect (for any emergency) in 2013"
     },
     {
         "country_name": "San Marino",
@@ -2119,7 +2119,7 @@
         "fire": [
             "193"
         ],
-        "notes": "Civil protection -1985;112redirects to192. It is possible to dial 112 and get direct connection with the emergency services by pressing 1 for police, 2 for ambulance and 3 for fire on Vip operator mobile phones."
+        "notes": "Civil protection - 1985; 112 redirects to 192. It is possible to dial 112 and get direct connection with the emergency services by pressing 1 for police, 2 for ambulance and 3 for fire on Vip operator mobile phones."
     },
     {
         "country_name": "Slovakia",
@@ -2132,7 +2132,7 @@
         "fire": [
             "150"
         ],
-        "notes": "Municipal police -159."
+        "notes": "Municipal police - 159."
     },
     {
         "country_name": "Slovenia",
@@ -2145,7 +2145,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police –113; Road help -1987; Emergency at sea -080 18 00."
+        "notes": "Police – 113; Road help - 1987; Emergency at sea - 080 18 00."
     },
     {
         "country_name": "Spain",
@@ -2158,7 +2158,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police:National Police-091;Civil Guard-062;Autonomic Police-112;Municipal Police-092.Fire:Local Firefighters-080;Autonomic Firefighters-085.Ambulance:SAMUR-061.Others:Civil Protection-1006,Maritime Rescue-902 202 202;Red Cross-901 222 222."
+        "notes": "Police: National Police - 091; Civil Guard - 062; Autonomic Police - 112; Municipal Police - 092.Fire: Local Firefighters - 080; Autonomic Firefighters - 085. Ambulance: SAMUR - 061.Others: Civil Protection - 1006, Maritime Rescue - 902 202 202; Red Cross - 901 222 222."
     },
     {
         "country_name": "Sweden",
@@ -2171,7 +2171,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Non-emergency police -114 14; Non-emergency medical advice -1177; Information during accidents and crises -113 13."
+        "notes": "Non-emergency police - 114 14; Non-emergency medical advice - 1177; Information during accidents and crises - 113 13."
     },
     {
         "country_name": "Switzerland",
@@ -2184,7 +2184,7 @@
         "fire": [
             "118"
         ],
-        "notes": "Poison control –145; Road help –0800 140 140; Psychological support –143; Psychological support for teens and children –147;Regaair rescue –1414or by radio on 161.300 MHz;Air Glaciersair-rescue (Valaisonly) –1415.The emergency number112is used differently based on theCanton. While in some cantons 112, 117, 118 and 114 are routed to a common emergency call center, in other cantons 112 together with 117 is directly routed to the police."
+        "notes": "Poison control – 145; Road help – 0800 140 140; Psychological support – 143; Psychological support for teens and children – 147; Rega air rescue – 1414 or by radio on 161.300 MHz; Air Glaciers air-rescue (Valais only) – 1415. The emergency number 112 is used differently based on the Canton. While in some cantons 112, 117, 118 and 114 are routed to a common emergency call center, in other cantons 112 together with 117 is directly routed to the police."
     },
     {
         "country_name": "Turkey",
@@ -2197,7 +2197,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Municipal police-153(112connects tonational police) ; Gas emergency and outages -187; Electricity emergency and outages -186; Water emergency and outages -185; Non-emergency medical consultation -184; Child abuse and family violence -183; Telephone emergency and outages -121; Poison control -114.911 automatically connects to 112. Current service is the result of consolidation of firefighter, emergency police, Gendarmerie, Coast Guard, forest fire, search and rescue, natural disaster and medical emergency numbers into medical emergency former solo number 112."
+        "notes": "Municipal police - 153 (112 connects to  national police) ; Gas emergency and outages - 187; Electricity emergency and outages - 186; Water emergency and outages - 185; Non-emergency medical consultation - 184; Child abuse and family violence - 183; Telephone emergency and outages - 121; Poison control - 114.\n911 automatically connects to 112. Current service is the result of consolidation of firefighter, emergency police, Gendarmerie, Coast Guard, forest fire, search and rescue, natural disaster and medical emergency numbers into medical emergency former solo number 112."
     },
     {
         "country_name": "Ukraine",
@@ -2210,7 +2210,7 @@
         "fire": [
             "101"
         ],
-        "notes": "General emergencies -112;Gas emergency - 104."
+        "notes": "General emergencies - 112;\nGas emergency - 104."
     },
     {
         "country_name": "United Kingdom",
@@ -2226,7 +2226,7 @@
             "999",
             "112"
         ],
-        "notes": "Non-emergency police -101; Power outages -105;Non-emergency health issues -111; COVID-19 testing helpline -119; gas leaks -0800 111 999.SMS messages can be sent to999after registration by sending a text message with the word 'Register' to999.911redirects to999on mobile phones/public phoneboothsand on telephones used inUSAFEbases."
+        "notes": "Non-emergency police - 101; Power outages - 105; Non-emergency health issues - 111; COVID-19 testing helpline - 119; gas leaks - 0800 111 999. SMS messages can be sent to 999 after registration by sending a text message with the word 'Register' to 999. 911 redirects to 999 on mobile phones/public phonebooths and on telephones used in USAFE bases."
     },
     {
         "country_name": "Vatican City",
@@ -2239,7 +2239,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police–113; Ambulance –118;Fire–115."
+        "notes": "Police – 113; Ambulance – 118; Fire – 115."
     },
     {
         "country_name": "American Samoa",
@@ -2265,7 +2265,7 @@
         "fire": [
             "000"
         ],
-        "notes": "Mobile phones -112or000;State Emergency Service–132 500; National relay service –106; Non-emergency police –131 444(NSW,QLD,VIC,SA,WA,NT,TASACT); Crime Stoppers –1800 333 000; Threats to national security –1800 123 400; Poison control –13 11 26;Lifeline–13 11 14."
+        "notes": "Mobile phones - 112 or 000; State Emergency Service – 132 500; National relay service – 106; Non-emergency police – 131 444 (NSW, QLD, VIC,SA,WA, NT, TAS ACT); Crime Stoppers – 1800 333 000; Threats to national security – 1800 123 400; Poison control – 13 11 26; Lifeline – 13 11 14."
     },
     {
         "country_name": "Cook Islands",
@@ -2291,7 +2291,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Crime Stoppers -919."
+        "notes": "Crime Stoppers - 919."
     },
     {
         "country_name": "French Polynesia",
@@ -2304,7 +2304,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "Guam",
@@ -2330,7 +2330,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Police -192; Ambulance -194; Fire -193."
+        "notes": "Police - 192; Ambulance - 194; Fire - 193."
     },
     {
         "country_name": "Marshall Islands",
@@ -2382,7 +2382,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "New Zealand",
@@ -2395,7 +2395,7 @@
         "fire": [
             "111"
         ],
-        "notes": "SMS messages can be sent to111from registered mobile phones. Traffic -*555(mobile phones only).112and911redirect to111on mobile phones.Dialing000and999plays a pre-recorded message advising the caller to call111. Crime Stoppers -0800 555 111. Police non-emergency -105."
+        "notes": "SMS messages can be sent to 111 from registered mobile phones. Traffic - *555 (mobile phones only). 112 and 911 redirect to 111 on mobile phones. Dialing 000 and 999 plays a pre-recorded message advising the caller to call 111. Crime Stoppers - 0800 555 111. Police non-emergency - 105."
     },
     {
         "country_name": "Palau",
@@ -2434,7 +2434,7 @@
         "fire": [
             "999"
         ],
-        "notes": "Police -995; Ambulance -996; Fire -994."
+        "notes": "Police - 995; Ambulance - 996; Fire - 994."
     },
     {
         "country_name": "Solomon Islands",
@@ -2450,7 +2450,7 @@
             "911",
             "999"
         ],
-        "notes": "In cities, local numbers exist which connect more quickly than either911or999."
+        "notes": "In cities, local numbers exist which connect more quickly than either 911 or 999."
     },
     {
         "country_name": "Tonga",
@@ -2463,7 +2463,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -922; Ambulance -933; Fire -999."
+        "notes": "Police - 922; Ambulance - 933; Fire - 999."
     },
     {
         "country_name": "Tuvalu",
@@ -2515,7 +2515,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "Costa Rica",
@@ -2528,7 +2528,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Mobile phones -112."
+        "notes": "Mobile phones - 112."
     },
     {
         "country_name": "Guatemala",
@@ -2541,7 +2541,7 @@
         "fire": [
             "122"
         ],
-        "notes": "Police -120; Fire -123."
+        "notes": "Police - 120; Fire - 123."
     },
     {
         "country_name": "El Salvador",
@@ -2580,7 +2580,7 @@
         "fire": [
             "115"
         ],
-        "notes": "Fire -911."
+        "notes": "Fire - 911."
     },
     {
         "country_name": "Panama",
@@ -2593,7 +2593,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -104; Fire -103."
+        "notes": "Police - 104; Fire - 103."
     },
     {
         "country_name": "Antigua and Barbuda",
@@ -2651,7 +2651,7 @@
             "911",
             "919"
         ],
-        "notes": "Mobile phones -112."
+        "notes": "Mobile phones - 112."
     },
     {
         "country_name": "British Virgin Islands",
@@ -2745,7 +2745,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "Martinique",
@@ -2758,7 +2758,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "Montserrat",
@@ -2861,7 +2861,7 @@
         "fire": [
             "911"
         ],
-        "notes": "112redirects to911on mobile phones."
+        "notes": "112 redirects to 911 on mobile phones."
     },
     {
         "country_name": "Haiti",
@@ -2874,7 +2874,7 @@
         "fire": [
             "115"
         ],
-        "notes": "Police -122."
+        "notes": "Police - 122."
     },
     {
         "country_name": "Puerto Rico",
@@ -2940,7 +2940,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Municipal services -311(some areas only).112may redirect to911on certain mobile phones."
+        "notes": "Municipal services - 311 (some areas only). 112 may redirect to 911 on certain mobile phones."
     },
     {
         "country_name": "Mexico",
@@ -2953,7 +2953,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Emergency -911; Anonymous complaint -089."
+        "notes": "Emergency - 911; Anonymous complaint - 089."
     },
     {
         "country_name": "Saint Pierre and Miquelon",
@@ -2966,7 +2966,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "United States of America",
@@ -2979,7 +2979,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Text-to-9-1-1is available in many regions and will respond with an error anywhere else. Various services available through regional or nationalN11 codes(e.g.:311for non-emergency police or city services) in certain areas. Calling#77from a mobile phone may reach thehighway patrolin some states.Calling112from a mobile phone may redirect to911in some states/localities, but emergency officials recommend callers use the standard 911."
+        "notes": "Text-to-9-1-1 is available in many regions and will respond with an error anywhere else. Various services available through regional or national N11 codes (e.g.: 311 for non-emergency police or city services) in certain areas. Calling #77 from a mobile phone may reach the highway patrol in some states. Calling 112 from a mobile phone may redirect to 911 in some states/localities, but emergency officials recommend callers use the standard 911."
     },
     {
         "country_name": "Argentina",
@@ -2992,7 +2992,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -101; Ambulance -107; Fire -100; Civil defense -103; Forest fire -105; Coast guard -106.112redirects to911on mobile phones."
+        "notes": "Police - 101; Ambulance - 107; Fire - 100; Civil defense - 103; Forest fire - 105; Coast guard - 106. 112 redirects to 911 on mobile phones."
     },
     {
         "country_name": "Bolivia",
@@ -3005,7 +3005,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -110; Ambulance -118; Fire -119; Civil protection -114; National police -120."
+        "notes": "Police - 110; Ambulance - 118; Fire - 119; Civil protection - 114; National police - 120."
     },
     {
         "country_name": "Brazil",
@@ -3018,7 +3018,7 @@
         "fire": [
             "193"
         ],
-        "notes": "Federal highway police -191; Federal police -194; Civil police -197; State highway police -198; Civil defense -199; Municipal guard -153; Human rights -100; Emergency in Mercosul area -128.112and911redirect to190on mobile phones;188- Hotline Help."
+        "notes": "Federal highway police - 191; Federal police - 194; Civil police - 197; State highway police - 198; Civil defense - 199; Municipal guard - 153; Human rights - 100; Emergency in Mercosul area - 128. 112 and 911 redirect to 190 on mobile phones; 188 - Hotline Help."
     },
     {
         "country_name": "Chile",
@@ -3031,7 +3031,7 @@
         "fire": [
             "132"
         ],
-        "notes": "Useful mnemonic isABC123:Ambulancia (Ambulance) - 131,Bomberos (Fire) - 132,Carabineros (Police) - 133.911redirects to133."
+        "notes": "Useful mnemonic is ABC123: Ambulancia (Ambulance) - 131, Bomberos (Fire) - 132, Carabineros (Police) - 133. 911 redirects to 133."
     },
     {
         "country_name": "Colombia",
@@ -3044,7 +3044,7 @@
         "fire": [
             "123"
         ],
-        "notes": "Police -112; Ambulance -125;Fire -119, Anti-kidnapping hotline -165."
+        "notes": "Police - 112; Ambulance - 125; Fire - 119, Anti-kidnapping hotline - 165."
     },
     {
         "country_name": "Ecuador",
@@ -3057,7 +3057,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -101; Ambulance -131; Fire -102; Emergency in Guayaquil -112; Traffic police in Guayaquil -103."
+        "notes": "Police - 101; Ambulance - 131; Fire - 102; Emergency in Guayaquil - 112; Traffic police in Guayaquil - 103."
     },
     {
         "country_name": "Falkland Islands",
@@ -3086,7 +3086,7 @@
         "fire": [
             "112"
         ],
-        "notes": "Police -17; Ambulance -15; Fire -18."
+        "notes": "Police - 17; Ambulance - 15; Fire - 18."
     },
     {
         "country_name": "Guyana",
@@ -3099,7 +3099,7 @@
         "fire": [
             "912"
         ],
-        "notes": "Childcare Protection Agency -227-0979; Human Trafficking -227-4083, 623-5030; Domestic Violence -914."
+        "notes": "Childcare Protection Agency - 227-0979; Human Trafficking - 227-4083, 623-5030; Domestic Violence - 914."
     },
     {
         "country_name": "Paraguay",
@@ -3112,7 +3112,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -912;Ambulance -141; Fire -132."
+        "notes": "Police - 912; Ambulance - 141; Fire - 132."
     },
     {
         "country_name": "Peru",
@@ -3125,7 +3125,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -105; Ambulance (SAMU) -106; Fire -116; Civil defense -115; Domestic violence -100."
+        "notes": "Police - 105; Ambulance (SAMU) - 106; Fire - 116; Civil defense - 115; Domestic violence - 100."
     },
     {
         "country_name": "South Georgia and the South Sandwich Islands",
@@ -3151,7 +3151,7 @@
         "fire": [
             "115"
         ],
-        "notes": "Police -115; Ambulance -113; Fire -110."
+        "notes": "Police - 115; Ambulance - 113; Fire - 110."
     },
     {
         "country_name": "Uruguay",
@@ -3164,7 +3164,7 @@
         "fire": [
             "911"
         ],
-        "notes": "Police -109; Ambulance -105; Fire -104."
+        "notes": "Police - 109; Ambulance - 105; Fire - 104."
     },
     {
         "country_name": "Venezuela",
