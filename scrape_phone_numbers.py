@@ -18,7 +18,7 @@ import csv
    
 
 def get_country_name(element):
-    name = get_text_withouttag(element, 'span')
+    name = get_text_withouttag(element, 'span,sup')
     return name
 
 def get_all_phonenumbers(element):
@@ -33,13 +33,15 @@ def get_all_phonenumbers(element):
 
 def get_text_withouttag(element, tag):
     texts = []
+    tags = tag.split(',')
     for t in element.children:
         if isinstance(t, NavigableString):
             texts.append(t)
-        elif t.name == tag:
+        elif t.name in tags:
             continue
         else:
-            texts.append(t.text)
+            subtext = get_text_withouttag(t, 'sup')
+            texts.append(subtext)
     text = "".join(texts)
     return text
 
@@ -81,7 +83,7 @@ for table in tables:
         police = []
         ambulance = []
         fire = []
-        notes = get_text_withouttag(tds[-1], 'sup').strip()
+        notes = get_text_withouttag(tds[-1], 'style,sup').strip()
 
         td1 = tds[1]
         colspan = td1.get('colspan','1')

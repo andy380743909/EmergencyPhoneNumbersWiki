@@ -980,7 +980,7 @@
         "fire": [
             "112"
         ],
-        "notes": ".mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}\nGas leakage - 1906\nTourist Helpline - 1363\nChild Helpline - 1098\nDisaster management - 104\nWomen Helpline - 181\nPolice - 100\nAmbulance - 108\nFire brigade - 101\n[25]"
+        "notes": "Gas leakage - 1906\nTourist Helpline - 1363\nChild Helpline - 1098\nDisaster management - 104\nWomen Helpline - 181\nPolice - 100\nAmbulance - 108\nFire brigade - 101"
     },
     {
         "country_name": "Indonesia",
@@ -1542,7 +1542,7 @@
         "notes": "Gas emergency - 104."
     },
     {
-        "country_name": "Belgium[46]",
+        "country_name": "Belgium",
         "police": [
             "101",
             "112"
@@ -1869,7 +1869,7 @@
         "notes": ""
     },
     {
-        "country_name": "Kosovo[56]",
+        "country_name": "Kosovo",
         "police": [
             "192"
         ],
@@ -2014,7 +2014,7 @@
         "notes": "Police - 192; Ambulance - 194; Fire - 193."
     },
     {
-        "country_name": "Northern Cyprus[62]",
+        "country_name": "Northern Cyprus",
         "police": [
             "155"
         ],
